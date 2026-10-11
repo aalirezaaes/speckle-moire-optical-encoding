@@ -26,3 +26,5 @@ The work extends speckle-based optical measurement concepts toward optical patte
 
 **Researcher:** Alireza Eskandarnia  
 [GitHub](https://github.com/aalirezaaes) · [ORCID](https://orcid.org/0009-0009-2584-9063) · [LinkedIn](https://www.linkedin.com/in/alireza-eskandarnia/)
+
+**Availability:** This repository provides an overview of the research project, including selected documentation and visual materials. Source code and datasets are not publicly released.
